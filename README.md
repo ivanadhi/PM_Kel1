@@ -12,7 +12,7 @@ Ini adalah proyek visualisasi data berbasis web yang menampilkan peta persebaran
 
 Berikut adalah tampilan dari file `index.html` ketika dibuka di browser.
 
-![Peta Persebaran Sekolah Jawa Timur](Output.jpg)
+![Peta Persebaran Sekolah Jawa Timur](Output.png)
 
 ## Deskripsi
 
