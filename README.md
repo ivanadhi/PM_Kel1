@@ -1,4 +1,4 @@
-# Peta Interaktif Persebaran Sekolah di Jawa Timur
+# Visualisasi Peta Interaktif Hasil Clustering Persebaran Sekolah di Jawa Timur menggunakan K-Means Clustering 
 
 Ini adalah proyek visualisasi data berbasis web yang menampilkan peta persebaran sekolah di provinsi Jawa Timur. Seluruh logika dan tampilan peta dibangun menggunakan HTML, CSS, dan JavaScript dengan library utama Leaflet.js.
 
